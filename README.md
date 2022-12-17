@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C, Front-End Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ig: gbpekalp, ✉️ b.pekalp@gmail.com
+- 📫 Instagram: gbpekalp - ✉️ b.pekalp@gmail.com
 
 <!---
 bpekalp/bpekalp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
