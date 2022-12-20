@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" >
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bpekalp&show_icons=true&theme=synthvawe)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bpekalp&show_icons=true&theme=dracula)
 
 ![My profile views](https://komarev.com/ghpvc/?username=bpekalp&color=orange)
 
