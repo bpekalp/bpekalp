@@ -6,14 +6,8 @@
 
 ## Contact me
 
-<a href="https://www.instagram.com/gbpekalp/" target="_blank">
-<img src="https://img.shields.io/badge/gbpekalp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
-</a>
-<a
-         href="https://www.linkedin.com/in/g%C3%BCven-bar%C4%B1%C5%9F-pekalp-2692ba226/"
-         target="_blank">
-<img src="https://img.shields.io/badge/Güven Barış Pekalp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
-</a>
-<a href="mailto:b.pekalp@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/b.pekalp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
-</a>
+[![Instagram: gbpekalp](https://img.shields.io/badge/gbpekalp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbpekalp/)
+
+[![LinkedIn: Güven Barış Pekalp](https://img.shields.io/badge/Güven_Barış_Pekalp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BCven-bar%C4%B1%C5%9F-pekalp-2692ba226/)
+
+[![mail: b.pekalp@gmail.com](https://img.shields.io/badge/b.pekalp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.pekalp@gmail.com)
