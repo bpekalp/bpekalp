@@ -1,5 +1,7 @@
 # Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" >
 
+![About me](https://media.licdn.com/dms/image/D4D16AQF33bn-fmrc0w/profile-displaybackgroundimage-shrink_350_1400/0/1675336785479?e=1680739200&v=beta&t=Srq0qrQhLUj6k8tR5IQwSfKbYIymGavliuJlEiLJeIg)
+
 ![bpekalp's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bpekalp&show_icons=true&theme=radical)
 
 ![bpekalp's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bpekalp&layout=compact&theme=radical)
