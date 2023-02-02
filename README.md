@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# Welcome to my GitHub profile! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">
 
 [![About me](./gallery/banner.png)](#)
 
