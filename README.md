@@ -1,4 +1,7 @@
-# Welcome to my GitHub profile! ![Hello!](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif | width=50)
+# Welcome to my GitHub profile! ![Hello!](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif){
+   width:50px;
+   height:50px;
+}
 
 [![About me](./gallery/banner.png)](#)
 
