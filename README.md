@@ -2,9 +2,9 @@
 
 [![About me](./gallery/banner.png)](#)
 
-![bpekalp's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bpekalp&show_icons=true&theme=radical)
+![bpekalp's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bpekalp&count_private=true&show_icons=true&theme=radical)
 
-![bpekalp's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bpekalp&layout=compact&theme=radical)
+![bpekalp's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bpekalp&theme=radical)
 
 ![bpekalp's profile views](https://komarev.com/ghpvc/?username=bpekalp&color=orange)
 
