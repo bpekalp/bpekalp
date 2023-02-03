@@ -2,7 +2,7 @@
 
 [![About me](./gallery/banner.png)](#)
 
-![bpekalp's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bpekalp&count_private=true&show_icons=true&theme=radical)
+![bpekalp's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bpekalp&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
 ![bpekalp's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bpekalp&theme=radical)
 
