@@ -8,7 +8,7 @@
 
 ![bpekalp's profile views](https://komarev.com/ghpvc/?username=bpekalp&color=orange)
 
-## Contact me <img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="30px">
+## Contact me <img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="37px">
 
 [![Instagram: gbpekalp](https://img.shields.io/badge/gbpekalp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbpekalp/)
 
