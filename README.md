@@ -10,7 +10,9 @@
 
 ## Contact me <img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="37px">
 
-[![Instagram: gbpekalp](https://img.shields.io/badge/gbpekalp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbpekalp/)
+[![Linktree: gbpekalp](https://img.shields.io/badge/gbpekalp-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://www.instagram.com/gbpekalp/)
+
+[![Instagram: gbpekalp](https://img.shields.io/badge/gbpekalp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://linktr.ee/gbpekalp)
 
 [![LinkedIn: Güven Barış Pekalp](https://img.shields.io/badge/Güven_Barış_Pekalp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbpekalp/)
 
