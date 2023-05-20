@@ -10,7 +10,7 @@
 
 ## Contact me <img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="37px">
 
-[![Linktree: gbpekalp](https://img.shields.io/badge/gbpekalp-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gbpekalp)
+[![Linktree: gbpekalp](https://img.shields.io/badge/gbpekalp-10a983?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gbpekalp)
 
 [![Instagram: gbpekalp](https://img.shields.io/badge/gbpekalp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbpekalp/)
 
