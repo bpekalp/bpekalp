@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">
 
-[![About me](./gallery/heading.png)](#)
+[![About me](./gallery/banner.png)](#)
 
 ![bpekalp's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bpekalp&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
